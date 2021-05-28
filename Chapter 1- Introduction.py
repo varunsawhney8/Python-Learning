@@ -1,5 +1,3 @@
-# Harshit Vashisht Course
-
 # Print Function
 
 print("Hello")

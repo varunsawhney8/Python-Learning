@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @varunsawhney8
-- 👀 I’m interested in data science and artificial intelligence.
-- 🌱 I’m currently learning data science using Python and R 
-- 💞️ I’m looking to collaborate on projects.
+- 👀 Interested in data science and artificial intelligence.
+- 💞️ looking to collaborate on projects.
 - 📫 You can drop a mail on varunsawhney8@gmail.com to contact me.
 
 <!---
